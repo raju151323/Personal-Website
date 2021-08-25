@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+
+}
+p{
+    color: grey;
+}
+a{
+    text-decoration: none;
+    background: #ef115a;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+h2{
+    color: rgb(31, 29, 29);
+}
+.name-highlight{
+    color: #ef115a;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.half-width img{
+    height: 400px;
+}
+
+.top-banner{
+    background-image: url("images/header-bg.png");
+    height: 500px;
+}
+
+
+
+.bio-banner{
+    background-image: url("images/biography-bg.png");
+    height: 500px;
+}
+
+.work-Highlight{
+    text-align: center;
+}
+
+.img-highlight img{
+    width: 300px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 35px ;
+}
+
+.heading h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.heading h4{
+    text-align: center;
+    color: rgba(5, 5, 5, 0.836);
+}
+
+.heading h6{
+    text-align: center;
+    color: rgba(19, 18, 18, 0.836);
+    
+}
+
+.heading p{
+    text-align: center;
+    font-size: 15px;
+}
+
+.Contact{
+    background: linear-gradient(#ed143dd1,#da0830eb);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    
+    margin-left: 27%;
+    border-radius: 5px;
+    
+}
+
+.Contact h6{
+    color: rgb(27, 25, 25);
+}
+.Contact h4{
+    color: rgb(27, 25, 25);
+}
+.messge{
+    padding-top: 10px;
+}
+
+.footer-banner{
+
+    background-image: url(images/footer-bg.png);
+    height: 400px;
+}
+
+
+
+
+
+
